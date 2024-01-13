@@ -37,9 +37,10 @@ Target:
 
 default.payment.next.month: binary variable, whether default payment (Yes = 1, No = 0)
 
-Training dataset, "CreditDefault_training.csv", contains 3985 rows and 24 columns. This is the training set containing both of the features and the target. Test dataset, "CreditDefault_Xtest.csv", contains 1000 rows and 23 columns. This is the test set which only contains the features.
+Training dataset, "[CreditDefault_training.csv](https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/CreditDefault_training.csv)", contains 3985 rows and 24 columns. This is the training set containing both of the features and the target.  
+Test dataset, "[CreditDefault_Xtest.csv](https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/CreditDefault_Xtest.csv)", contains 1000 rows and 23 columns. This is the test set which only contains the features.
 
 Prediction task is to determine whether there's credit default for a person.
 
 ## Model
-Refer this [Link]() for the code.
+Refer this [Link](https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/Credit_Card_Default_Prediction_Using_Logistic_Regression.ipynb) for the code.
